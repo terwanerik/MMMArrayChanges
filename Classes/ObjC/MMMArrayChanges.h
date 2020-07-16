@@ -3,7 +3,7 @@
 // Copyright (C) 2019 MediaMonks. All rights reserved.
 //
 
-#import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
 
 NS_ASSUME_NONNULL_BEGIN
 

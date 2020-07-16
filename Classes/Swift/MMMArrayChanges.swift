@@ -3,6 +3,8 @@
 // Copyright (C) 2019 MediaMonks. All rights reserved.
 //
 
+import UIKit
+
 /**
 Finds the differences between two arrays with elements possibly of different types.
 
